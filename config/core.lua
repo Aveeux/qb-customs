@@ -38,7 +38,7 @@ Config.Positions = {
             enable = true,
             type = 72,
             color = 0,
-            title = 'Bennys',
+            title = "Benny's Motorworks",
             scale = 0.5
         },
         actionDistance = 7.0
